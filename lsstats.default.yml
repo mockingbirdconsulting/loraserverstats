@@ -1,0 +1,6 @@
+---
+server:
+    uri: https://your.loraserver.install
+    auth:
+        username: your_user
+        password: your_password
