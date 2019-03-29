@@ -30,4 +30,4 @@ for qtype in ['organizations','applications','gateways', 'devices']:
             ).json()['totalCount']
 
 
-print(stats)
+print(json.dumps(stats))
